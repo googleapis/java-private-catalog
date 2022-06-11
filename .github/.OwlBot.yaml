@@ -27,5 +27,6 @@ deep-copy-regex:
 - source: "/google/cloud/privatecatalog/(v.*)/.*-java/grpc-google-.*/src"
   dest: "/owl-bot-staging/$1/grpc-google-cloud-private-catalog-$1/src"
 - source: "/google/cloud/privatecatalog/(v.*)/.*-java/gapic-google-.*/src"
-  dest: "/owl-bot-staging/$1/google-cloud-private-catalog/src"- source: "/google/cloud/privatecatalog/(v.*)/.*-java/samples/snippets/generated"
+  dest: "/owl-bot-staging/$1/google-cloud-private-catalog/src"
+- source: "/google/cloud/privatecatalog/(v.*)/.*-java/samples/snippets/generated"
   dest: "/owl-bot-staging/$1/samples/snippets/generated"
