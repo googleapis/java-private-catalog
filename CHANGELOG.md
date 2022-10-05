@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.5](https://github.com/googleapis/java-private-catalog/compare/v0.4.4...v0.4.5) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([5b1906c](https://github.com/googleapis/java-private-catalog/commit/5b1906c2f50755dd42271532b3ae03809e674396))
+
 ## [0.4.4](https://github.com/googleapis/java-private-catalog/compare/v0.4.3...v0.4.4) (2022-10-03)
 
 
