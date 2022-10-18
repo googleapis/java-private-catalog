@@ -70,7 +70,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-private-catalog-v1beta1</artifactId>
-        <version>0.5.5</version><!-- {x-version-update:proto-google-cloud-private-catalog-v1beta1:current} -->
+        <version>0.6.0</version><!-- {x-version-update:proto-google-cloud-private-catalog-v1beta1:current} -->
       </dependency>
 
       <dependency>
